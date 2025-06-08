@@ -21,8 +21,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=dousery&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=Dousery&color=blue)
+<div align="center">
 
+[![](https://visitcount.itsvg.in/api?id=dousery&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 
 
