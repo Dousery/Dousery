@@ -3,7 +3,6 @@
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 ## 💫 About Me:
-
 🎓 I'm a final-year Computer Engineering student at Dokuz Eylul University.  
 🤖 I'm currently working on projects related to Large Language Models (LLMs), AI Agents, and Data Science.  
 📊 I have a strong interest in building intelligent systems that can analyze data, learn from it, and make decisions.  
