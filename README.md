@@ -23,10 +23,8 @@
 ---
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=dousery&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=dousery&color=blue)
 
 </div>
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
