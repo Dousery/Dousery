@@ -5,7 +5,7 @@
 # 💫 About Me:
 
 🎓 I graduated with a degree in Computer Engineering from Dokuz Eylul University.                        
-🤖 I'm currently working on projects related to Large Language Models (LLMs), AI Agents, and Data Science.  
+🤖 I'm currently working on projects related to Cloud, Large Language Models (LLMs), AI Agents, and Data Science.  
 📊 I have a strong interest in building intelligent systems that can analyze data, learn from it, and make decisions.  
 🚀 I enjoy participating in bootcamps, contributing to open-source projects, and exploring cutting-edge AI technologies.  
 🌱 I'm always looking to learn, collaborate, and grow in the fields of artificial intelligence and data-driven development.
