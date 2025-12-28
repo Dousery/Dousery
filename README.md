@@ -5,10 +5,9 @@
 # 💫 About Me:
 
 🎓 I graduated with a degree in Computer Engineering from Dokuz Eylul University.  
-🤖 I work on Cloud Computing and Artificial Intelligence projects, focusing on cloud-native, scalable systems and LLM and AI agent–based solutions.  
-⭐ My interests include distributed systems, cloud infrastructure, AI model deployment, and end-to-end system design.  
-🚀 I enjoy participating in bootcamps, contributing to open-source projects, and exploring emerging and cutting-edge technologies.  
-🌱 I am continuously motivated to learn, collaborate, and exploring emerging and cutting-edge technologies.
+🤖 I work on Cloud Computing and Artificial Intelligence projects.
+⭐ My interests include designing and developing cloud-native, scalable solutions, as well as working on LLMs and AI agents.
+🚀 I am always eager to learn, collaborate and grow in modern and emerging technologies.  
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
