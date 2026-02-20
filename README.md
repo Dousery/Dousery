@@ -4,10 +4,10 @@
 
 # 💫 About Me:
 
-🎓 I graduated with a degree in Computer Engineering from Dokuz Eylul University.  
-🤖 I work on Cloud Computing and Artificial Intelligence projects, contributing to real-world applications and systems.  
-⭐ My interests include developing cloud-native, scalable systems and building LLM-based solutions involving RAG, fine-tuning, MCP and AI agent architectures.  
-🚀 I am always eager to learn, collaborate and grow in modern and emerging technologies.    
+☁️ I focus on Cloud Platforms and DevOps practices, building and maintaining scalable, reliable, and production-ready systems.
+🛠️ I work with containerized environments, automation, and CI/CD pipelines, aiming to improve system efficiency and operational stability.
+⚙️ My interests include cloud-native architectures, Kubernetes-based environments, and platform engineering concepts.
+🚀 I am continuously improving myself in modern infrastructure technologies and DevOps culture, with a strong motivation to learn and grow in real-world environments.    
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
