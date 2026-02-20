@@ -4,10 +4,10 @@
 
 # 💫 About Me:
 
-☁️ I focus on Cloud Platforms and DevOps practices, building and maintaining scalable, reliable, and production-ready systems.
-🛠️ I work with containerized environments, automation, and CI/CD pipelines, aiming to improve system efficiency and operational stability.
-⚙️ My interests include cloud-native architectures, Kubernetes-based environments, and platform engineering concepts.
-🚀 I am continuously improving myself in modern infrastructure technologies and DevOps culture, with a strong motivation to learn and grow in real-world environments.    
+💬 I focus on Cloud Platforms and DevOps practices, building and maintaining scalable, reliable, and production-ready systems.<br>
+🛠️ I work with containerized environments, automation, and CI/CD pipelines, aiming to improve system efficiency and operational stability.<br>
+⚙️ My interests include cloud-native architectures, Kubernetes-based environments, and platform engineering concepts.<br>
+🚀 I am continuously improving myself in modern infrastructure technologies and DevOps culture, with a strong motivation to learn and grow in real-world environments.   
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
