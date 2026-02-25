@@ -20,11 +20,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=dousery&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<!-- <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=dousery&color=blue)
-
-</div> -->
+<!-- <div align="center"> ![Profile views](https://komarev.com/ghpvc/?username=dousery&color=blue) </div> -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
