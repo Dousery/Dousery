@@ -19,7 +19,9 @@
 <!-- # 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=dousery&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) -->
 
 ---
-<div align="center"> ![Profile views](https://komarev.com/ghpvc/?username=dousery&color=blue) </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dousery&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
