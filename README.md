@@ -16,11 +16,10 @@
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dousery&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<!-- # 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=dousery&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) -->
 
 ---
-<!-- <div align="center"> ![Profile views](https://komarev.com/ghpvc/?username=dousery&color=blue) </div> -->
+<div align="center"> ![Profile views](https://komarev.com/ghpvc/?username=dousery&color=blue) </div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
