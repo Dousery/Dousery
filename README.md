@@ -18,7 +18,6 @@
 
 <!-- # 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=dousery&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) -->
 
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dousery&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
